@@ -1,0 +1,5 @@
+{
+  "name": "CSV-Flow",
+  "description": "A streamlined, client-side tool to paste, view, edit, and download CSV files. Optimized for research and data extraction tasks.",
+  "requestFramePermissions": []
+}
